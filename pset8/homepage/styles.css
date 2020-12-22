@@ -1,0 +1,166 @@
+body
+{
+    background-color: rgb(11, 11, 11);;
+}
+.button {
+  background-color:  #2060F3;
+  margin-top: 40%;
+  margin-right: 20%;
+  margin-bottom: 5%;
+  float: right;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.button2
+{
+  position: absolute;
+
+  background-color: rgb(64, 255, 95);
+  margin-top: 35%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+img
+{
+  margin-left: 5%;
+}
+
+.name
+{
+  color: rgb(255, 181, 240);
+  margin-left: 13%;
+  font-family: consolas;
+}
+
+.text
+{
+  color: white;
+  font-size: 16px;
+  text-align: justify;
+  font-family: verdana;
+  margin-left: 15px;
+}
+
+.buttonElon
+{
+  position: absolute;
+
+  background-color: rgb(64, 255, 95);
+  margin-top: 38%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+
+.heading
+{
+  color: rgb(100, 255, 104);
+  font-size: 45px;
+  text-align: center;
+  font-family: sans-serif;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.margin
+{
+  margin-top: 10px;
+}
+
+.buttonElon2 {
+  background-color: rgb(64, 255, 95);
+  margin-top: 1%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+  float: right;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.textSteve
+{
+  color: white;
+  font-size: 16px;
+  text-align: justify;
+  font-family: verdana;
+  margin-left: 0;
+  padding-right: 4%;
+}
+
+.heading2
+{
+  color: rgb(255, 82, 75);
+  font-size: 45px;
+  text-align: center;
+  font-family: sans-serif;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.buttonSteve {
+  background-color: rgb(64, 255, 95);
+  margin-top: 0%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+  float: right;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.nameBill
+{
+  color: rgb(255, 181, 240);
+  margin-left: 5%;
+  font-family: consolas;
+}
+
+.textIn
+{
+  color: white;
+  font-size: 20px;
+  font-family: verdana;
+  margin-left: 0;
+  padding-right: 4%;
+}
+
+hr
+{
+  height: 10px;
+  background-color: #2060F3;
+  border: none;
+}
+
+.italic
+{
+  color: white;
+  border: 2px solid white;
+  text-align: center;
+  padding-right: 10px;
+}
+
